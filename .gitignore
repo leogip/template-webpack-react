@@ -1,0 +1,42 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# vscode
+jsconfig.json
+dist
+.vscode
+/.idea/
+
+# jet
+.idea/
+*.iml
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules
+jspm_packages
+
+# Optional npm cache directory
+.npm
+
+#mac
+.DS_Store
+
+#eslint
+.eslintcache
+
+#cashe
+.cache
+
+.git/
+.gitattributes
+
+dist/
+package-lock.json
